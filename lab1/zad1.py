@@ -1,5 +1,5 @@
-liczba1 = 3
-liczba2 = 5
+liczba1 = int(input())
+liczba2 = int(input())
 
 print("suma: " + str(liczba1+liczba2))
 print("roznica: " + str(liczba1-liczba2))
